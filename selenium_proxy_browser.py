@@ -4,10 +4,10 @@ import zipfile
 from selenium import webdriver
 
 
-PROXY_HOST = '2.56.119.93'  # rotating proxy or host
-PROXY_PORT = 5074  # port
-PROXY_USER = 'opglyuao'  # username
-PROXY_PASS = '8rzrmifvx14w'  # password
+PROXY_HOST = ''  # rotating proxy or host
+PROXY_PORT = 0000  # port
+PROXY_USER = ''  # username
+PROXY_PASS = ''  # password
 
 
 manifest_json = """
