@@ -83,8 +83,7 @@ def get_chromedriver(use_proxy=False, user_agent=None):
 
 def main():
     driver = get_chromedriver(use_proxy=True)
-    driver.get('https://2ip.ru/')
-    time.sleep(1000)
+    driver.get('')
 
 
 if __name__ == '__main__':
